@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Clase",
-        "excerpt":"Tercer Post   Testeando Tablas —                                Nombre                Apellido                Edad                Lugar                               Manuel            Curbelo            42            La Juncia                            Montse            Garcia            45            Palo Blanco                            Ainara            Alvarez            16            Chimiche                            Carmen Nieves            Trujillo            59            EL Palmar           ","categories": ["docencia"],
+        "excerpt":"El tercer post    Testeando Tablas —                                Nombre                Apellido                Edad                Lugar                               Manuel            Curbelo            42            La Juncia                            Montse            Garcia            45            Palo Blanco                            Ainara            Alvarez            16            Chimiche                            Carmen Nieves            Trujillo            59            EL Palmar           ","categories": ["docencia"],
         "tags": [],
         "url": "/docencia/clase/",
         "teaser": null
