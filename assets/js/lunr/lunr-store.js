@@ -1,24 +1,24 @@
 var store = [{
-        "title": "El first post",
-        "excerpt":"Mañana trabajo y la proxima semana estoy de tarde asi que no puedo venir a clase   asi que me voy a acostar a las 21:00 como las gallinas para mañana no estar reventado  ","categories": ["blog"],
+        "title": "El primer post",
+        "excerpt":"Nacido en Buenavista del Norte en 1979 Hijo de padre y madre trabajadores de sol a sol, me crie la mayor parte del tiempo, con mi abuela Lola y mi bisabuela “abuela chiquita”, chiquita porque era bajita, destaco que ese nombre que yo le dí, fue utilizado por toda la...","categories": ["blog"],
         "tags": [],
         "url": "/blog/aet/",
         "teaser": null
       },{
         "title": "Me gustan las peliculas de los 80's",
-        "excerpt":"Segundo post tal y cual toma tomatoes Esto es bastante para que sirve esto del lost engorroso \\[f(x) = \\int_{-\\infty}^\\infty \\hat f(\\alpha)\\,e^{2 \\pi i \\xi x} \\,d\\xi\\] \\[x = \\frac {-b \\pm \\sqrt {b^2 - 4ac}}{2a}\\] No se en que dia vivo, que es lo que pasa en la vida...","categories": ["docencia"],
+        "excerpt":"Segundo post tal y cual toma tomatoes el lost se puede utilizar para escribir texto u otra cosa y repetirlo usando el codigo page-lost entre corchetes \\[f(x) = \\int_{-\\infty}^\\infty \\hat f(\\alpha)\\,e^{2 \\pi i \\xi x} \\,d\\xi\\] \\[x = \\frac {-b \\pm \\sqrt {b^2 - 4ac}}{2a}\\] No se en que dia...","categories": ["docencia"],
         "tags": [],
         "url": "/docencia/PostII/",
         "teaser": null
       },{
         "title": "Clase",
-        "excerpt":"Tercer Post   Titulo: Testeando Tablas —                                Nombre                Apellido                Edad                Lugar                               Manuel            Curbelo            42            La Juncia                            Montse            Garcia            45            Palo Blanco                            Ainara            Alvarez            16            Chimiche                            Carmen Nieves            Trujillo            59            EL Palmar           ","categories": ["docencia"],
+        "excerpt":"Tercer Post   Testeando Tablas —                                Nombre                Apellido                Edad                Lugar                               Manuel            Curbelo            42            La Juncia                            Montse            Garcia            45            Palo Blanco                            Ainara            Alvarez            16            Chimiche                            Carmen Nieves            Trujillo            59            EL Palmar           ","categories": ["docencia"],
         "tags": [],
         "url": "/docencia/clase/",
         "teaser": null
       },{
         "title": "Didactica",
-        "excerpt":"La didáctica (del adj. didáctico, del griego διδακτικός [didaktikós]).1​2​ Entre los pensadores griegos, aparecieron los primeros acercamientos etimológicos a la Didáctica, con alusiones, imprecisas y generales, pero útiles, a la enseñanza y al aprendizaje. La palabra didáctica tiene su origen en el término diaktiqué, asociado al arte de enseñar. “En...","categories": ["docencia"],
+        "excerpt":"La didáctica (del adj. didáctico, del griego διδακτικός [didaktikós]). Entre los pensadores griegos, aparecieron los primeros acercamientos etimológicos a la Didáctica, con alusiones, imprecisas y generales, pero útiles, a la enseñanza y al aprendizaje. La palabra didáctica tiene su origen en el término diaktiqué, asociado al arte de enseñar. “En...","categories": ["docencia"],
         "tags": [],
         "url": "/docencia/didactica/",
         "teaser": null
