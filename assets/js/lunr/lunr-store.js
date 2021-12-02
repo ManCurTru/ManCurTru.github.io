@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Me gustan las peliculas de los 80's",
-        "excerpt":"Segundo post tal y cual toma tomatoes el lost se puede utilizar para escribir texto u otra cosa y repetirlo usando el codigo page-lost entre corchetes \\[f(x) = \\int_{-\\infty}^\\infty \\hat f(\\alpha)\\,e^{2 \\pi i \\xi x} \\,d\\xi\\] \\[x = \\frac {-b \\pm \\sqrt {b^2 - 4ac}}{2a}\\] No se en que dia...","categories": ["docencia"],
+        "excerpt":"Este es el segundo post Los cazafantasmas el lost se puede utilizar para escribir texto u otra cosa y repetirlo usando el codigo page-lost entre corchetes, como se ha hecho aqui pero no lo puedes ver como el ejemplo de abajo escribir texto u otra cosa Esto es una prueba...","categories": ["docencia"],
         "tags": [],
         "url": "/docencia/PostII/",
         "teaser": null
